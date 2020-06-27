@@ -7,6 +7,8 @@
 module.exports = {
   siteMetadata: {
     title: `卡米哥的記憶體`,
+    siteUrl: `https://blog.etrex.tw`,
+    description: `卡米哥的記憶體`,
   },
   plugins: [
     {
