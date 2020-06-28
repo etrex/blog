@@ -6,6 +6,9 @@ https://www.gatsbyjs.org/
 
 # 選用以下的 Plugin
 
+## Gatsby Tailwind Theme
+https://www.gatsbyjs.org/packages/gatsby-theme-tailwindcss
+
 ## gatsby-source-filesystem 讀檔
 https://www.gatsbyjs.org/packages/gatsby-source-filesystem
 
@@ -28,18 +31,19 @@ yarn add gatsby-transformer-remark
 https://www.gatsbyjs.org/packages/gatsby-theme-blog-tags
 他會依賴 gatsby-theme-blog-core
 
-## Gatsby Tailwind Theme
-https://www.gatsbyjs.org/packages/gatsby-theme-tailwindcss
+## gatsby-plugin-google-gtag
+https://www.gatsbyjs.org/packages/gatsby-plugin-google-gtag
+在 windows 上不能安裝
 
 # 給我用的
 
 ## gatsby-plugin-google-analytics GA
-https://www.gatsbyjs.org/packages/gatsby-plugin-google-gtag
 https://www.gatsbyjs.org/packages/gatsby-plugin-google-analytics
 
 ## gatsby-remark-slug
 https://www.gatsbyjs.org/packages/gatsby-remark-heading-slug
 https://www.gatsbyjs.org/packages/gatsby-remark-slug
+
 ## gatsby-remark-katex 數學式
 https://www.gatsbyjs.org/packages/gatsby-remark-katex
 
