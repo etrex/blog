@@ -28,8 +28,15 @@ https://www.gatsbyjs.org/packages/gatsby-remark-heading-slug
 ## gatsby-remark-katex 數學式
 https://www.gatsbyjs.org/packages/gatsby-remark-katex
 
+## gatsby-remark-embed-video 影片
+https://www.gatsbyjs.org/packages/gatsby-remark-embed-video
+
+## gatsby-remark-vscode 程式碼
+https://www.gatsbyjs.org/packages/gatsby-remark-vscode
+
 ## gatsby-plugin-google-analytics GA
 https://www.gatsbyjs.org/packages/gatsby-plugin-google-analytics
+
 
 # 不使用以下的 Plugin
 ## gatsby-theme-blog-core
@@ -45,14 +52,6 @@ https://www.gatsbyjs.org/packages/gatsby-plugin-google-gtag
 在 windows 上不能安裝
 
 # 給我用的
-
-## gatsby-remark-embed-video 影片
-https://www.gatsbyjs.org/packages/gatsby-remark-embed-video
-https://www.gatsbyjs.org/packages/gatsby-remark-embedder
-
-## gatsby-remark-vscode & gatsby-remark-github 程式碼
-https://www.gatsbyjs.org/packages/gatsby-remark-vscode
-https://www.gatsbyjs.org/packages/gatsby-remark-github
 
 ## gatsby-remark-mermaid 圖表生成
 https://www.gatsbyjs.org/packages/gatsby-remark-mermaid
