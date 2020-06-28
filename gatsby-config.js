@@ -27,6 +27,12 @@ module.exports = {
       },
     },
     `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [`gatsby-remark-heading-slug`],
+      },
+    },
     // GA
     {
       resolve: `gatsby-plugin-google-analytics`,

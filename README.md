@@ -22,6 +22,9 @@ yarn add gatsby-source-filesystem
 yarn add gatsby-transformer-remark
 ```
 
+## gatsby-remark-slug
+https://www.gatsbyjs.org/packages/gatsby-remark-heading-slug
+
 ## gatsby-plugin-google-analytics GA
 https://www.gatsbyjs.org/packages/gatsby-plugin-google-analytics
 
@@ -39,10 +42,6 @@ https://www.gatsbyjs.org/packages/gatsby-plugin-google-gtag
 在 windows 上不能安裝
 
 # 給我用的
-
-## gatsby-remark-slug
-https://www.gatsbyjs.org/packages/gatsby-remark-heading-slug
-https://www.gatsbyjs.org/packages/gatsby-remark-slug
 
 ## gatsby-remark-katex 數學式
 https://www.gatsbyjs.org/packages/gatsby-remark-katex
