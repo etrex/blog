@@ -16,11 +16,14 @@ https://www.gatsbyjs.org/packages/gatsby-source-filesystem
 yarn add gatsby-source-filesystem
 ```
 
-# gatsby-transformer-remark Markdown
+## gatsby-transformer-remark Markdown
 
 ```
 yarn add gatsby-transformer-remark
 ```
+
+## gatsby-plugin-google-analytics GA
+https://www.gatsbyjs.org/packages/gatsby-plugin-google-analytics
 
 # 不使用以下的 Plugin
 ## gatsby-theme-blog-core
@@ -36,9 +39,6 @@ https://www.gatsbyjs.org/packages/gatsby-plugin-google-gtag
 在 windows 上不能安裝
 
 # 給我用的
-
-## gatsby-plugin-google-analytics GA
-https://www.gatsbyjs.org/packages/gatsby-plugin-google-analytics
 
 ## gatsby-remark-slug
 https://www.gatsbyjs.org/packages/gatsby-remark-heading-slug
