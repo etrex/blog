@@ -25,6 +25,9 @@ yarn add gatsby-transformer-remark
 ## gatsby-remark-slug
 https://www.gatsbyjs.org/packages/gatsby-remark-heading-slug
 
+## gatsby-remark-katex 數學式
+https://www.gatsbyjs.org/packages/gatsby-remark-katex
+
 ## gatsby-plugin-google-analytics GA
 https://www.gatsbyjs.org/packages/gatsby-plugin-google-analytics
 
@@ -42,9 +45,6 @@ https://www.gatsbyjs.org/packages/gatsby-plugin-google-gtag
 在 windows 上不能安裝
 
 # 給我用的
-
-## gatsby-remark-katex 數學式
-https://www.gatsbyjs.org/packages/gatsby-remark-katex
 
 ## gatsby-remark-embed-video 影片
 https://www.gatsbyjs.org/packages/gatsby-remark-embed-video

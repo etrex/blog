@@ -11,6 +11,12 @@ Here's a video of a panda eating sweets.
 
 # H1
 
+$$
+a^2 + b^2 = c^2
+$$
+
 ## H2
+
+$ a^2 + b^2 = c^2 $
 
 ### H3
