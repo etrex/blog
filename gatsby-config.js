@@ -39,7 +39,8 @@ module.exports = {
               strict: `ignore`
             }
           },
-          "gatsby-remark-embed-video"
+          "gatsby-remark-embed-video",
+          'gatsby-remark-mermaid'
         ],
       },
     },

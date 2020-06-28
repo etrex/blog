@@ -22,3 +22,10 @@ $$
 $ a^2 + b^2 = c^2 $
 
 ### H3
+
+```mermaid
+graph LR
+install[Install Plugin]
+install --> configure[Configure Plugin]
+configure --> draw[Draw Fancy Diagrams]
+```

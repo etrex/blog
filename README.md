@@ -31,8 +31,13 @@ https://www.gatsbyjs.org/packages/gatsby-remark-katex
 ## gatsby-remark-embed-video 影片
 https://www.gatsbyjs.org/packages/gatsby-remark-embed-video
 
+## gatsby-remark-mermaid 圖表生成
+https://www.gatsbyjs.org/packages/gatsby-remark-mermaid
+
 ## gatsby-remark-vscode 程式碼
 https://www.gatsbyjs.org/packages/gatsby-remark-vscode
+
+windows 裝不起來 !?
 
 ## gatsby-plugin-google-analytics GA
 https://www.gatsbyjs.org/packages/gatsby-plugin-google-analytics
@@ -52,9 +57,6 @@ https://www.gatsbyjs.org/packages/gatsby-plugin-google-gtag
 在 windows 上不能安裝
 
 # 給我用的
-
-## gatsby-remark-mermaid 圖表生成
-https://www.gatsbyjs.org/packages/gatsby-remark-mermaid
 
 ## gatsby-remark-external-links 外部連結安全性
 https://www.gatsbyjs.org/packages/gatsby-remark-external-links
