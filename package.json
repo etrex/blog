@@ -16,6 +16,7 @@
   "dependencies": {
     "gatsby": "^2.21.37",
     "gatsby-plugin-google-analytics": "^2.3.6",
+    "gatsby-remark-embed-video": "^3.0.10",
     "gatsby-remark-heading-slug": "^0.2.0",
     "gatsby-remark-katex": "^3.3.6",
     "gatsby-source-filesystem": "^2.3.8",
