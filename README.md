@@ -56,10 +56,14 @@ https://www.gatsbyjs.org/packages/gatsby-theme-blog-tags
 https://www.gatsbyjs.org/packages/gatsby-plugin-google-gtag
 在 windows 上不能安裝
 
-# 給我用的
-
 ## gatsby-remark-external-links 外部連結安全性
 https://www.gatsbyjs.org/packages/gatsby-remark-external-links
+
+幫外部連結加上 target 和 rel。
+target 使用 _blank 讓跳出率下降。
+rel 使用 noopener 確保外部網站不能用 js 控制我們的網站。
+
+# 給我用的
 
 # 給觀眾用的
 ## gatsby-plugin-sharp & gatsby-transformer-sharp 圖檔最佳化

@@ -40,7 +40,14 @@ module.exports = {
             }
           },
           "gatsby-remark-embed-video",
-          'gatsby-remark-mermaid'
+          'gatsby-remark-mermaid',
+          {
+            resolve: "gatsby-remark-external-links",
+            options: {
+              target: "_blank",
+              rel: "noopener"
+            }
+          }
         ],
       },
     },
