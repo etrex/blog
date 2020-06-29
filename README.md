@@ -63,8 +63,6 @@ https://www.gatsbyjs.org/packages/gatsby-remark-external-links
 target 使用 _blank 讓跳出率下降。
 rel 使用 noopener 確保外部網站不能用 js 控制我們的網站。
 
-# 給我用的
-
 # 給觀眾用的
 ## gatsby-plugin-sharp & gatsby-transformer-sharp 圖檔最佳化
 https://www.gatsbyjs.org/packages/gatsby-plugin-sharp
