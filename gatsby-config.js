@@ -51,6 +51,7 @@ module.exports = {
         ],
       },
     },
+    `gatsby-plugin-catch-links`,
     // GA
     {
       resolve: `gatsby-plugin-google-analytics`,
@@ -81,7 +82,7 @@ module.exports = {
         // cookieDomain: "example.com",
       },
     },
-    // RSS
+    // add rss.xml
     {
       resolve: `gatsby-plugin-feed`,
       options: {
@@ -142,5 +143,7 @@ module.exports = {
         ],
       },
     },
+    // add robots.txt
+    'gatsby-plugin-robots-txt',
   ],
 }

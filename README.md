@@ -63,6 +63,19 @@ https://www.gatsbyjs.org/packages/gatsby-remark-external-links
 target 使用 _blank 讓跳出率下降。
 rel 使用 noopener 確保外部網站不能用 js 控制我們的網站。
 
+## gatsby-plugin-feed RSS
+https://www.gatsbyjs.org/packages/gatsby-plugin-feed
+
+## gatsby-plugin-catch-links SPA
+https://www.gatsbyjs.org/packages/gatsby-plugin-catch-links
+
+幫 markdown 裡的內部超連結加上 SPA 效果，不會重新載入頁面
+
+## gatsby-plugin-robots-txt
+https://www.gatsbyjs.org/packages/gatsby-plugin-robots-txt
+
+幫網站加上 robots.txt
+
 # 給觀眾用的
 ## gatsby-plugin-sharp & gatsby-transformer-sharp 圖檔最佳化
 https://www.gatsbyjs.org/packages/gatsby-plugin-sharp
@@ -71,20 +84,11 @@ https://www.gatsbyjs.org/packages/gatsby-transformer-sharp/?=
 ## gatsby-awesome-pagination 分頁
 https://www.gatsbyjs.org/packages/gatsby-awesome-pagination
 
-## gatsby-plugin-feed RSS
-https://www.gatsbyjs.org/packages/gatsby-plugin-feed
-
 # 給 Google 用的
-
-## gatsby-plugin-catch-links SPA
-https://www.gatsbyjs.org/packages/gatsby-plugin-catch-links
 
 ## gatsby-plugin-sitemap sitemap
 https://www.gatsbyjs.org/packages/gatsby-plugin-sitemap
 https://www.gatsbyjs.org/packages/gatsby-plugin-advanced-sitemap
-
-## gatsby-plugin-robots-txt
-https://www.gatsbyjs.org/packages/gatsby-plugin-robots-txt
 
 ## gatsby-plugin-manifest PWA
 https://www.gatsbyjs.org/packages/gatsby-plugin-manifest
