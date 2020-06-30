@@ -143,6 +143,8 @@ module.exports = {
         ],
       },
     },
+    // add sitemap.xml
+    `gatsby-plugin-advanced-sitemap`,
     // add robots.txt
     'gatsby-plugin-robots-txt',
   ],
