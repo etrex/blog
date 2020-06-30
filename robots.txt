@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog.etrex.tw/sitemap.xml
+Host: https://blog.etrex.tw
