@@ -154,7 +154,7 @@ module.exports = {
         name: `卡米哥的記憶體`,
         short_name: `卡米哥的記憶體`,
         description: `這裡是卡米哥用來紀錄生活的地方`,
-        lang: `en`,
+        lang: `zh-TW`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#ffffff`,
