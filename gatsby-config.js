@@ -147,5 +147,30 @@ module.exports = {
     `gatsby-plugin-advanced-sitemap`,
     // add robots.txt
     'gatsby-plugin-robots-txt',
+    // SEO
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `卡米哥的記憶體`,
+        short_name: `卡米哥的記憶體`,
+        description: `這裡是卡米哥用來紀錄生活的地方`,
+        lang: `en`,
+        start_url: `/`,
+        background_color: `#ffffff`,
+        theme_color: `#ffffff`,
+        display: `standalone`,
+        icon: `src/images/icon.jpg`,
+        cache_busting_mode: 'none',
+        crossOrigin: `use-credentials`, 
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-offline',
+      options: {
+         workboxConfig: {
+            globPatterns: ['**/*']
+         }
+      }
+   },
   ],
 }

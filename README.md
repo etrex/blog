@@ -71,6 +71,11 @@ https://www.gatsbyjs.org/packages/gatsby-plugin-catch-links
 
 幫 markdown 裡的內部超連結加上 SPA 效果，不會重新載入頁面
 
+## gatsby-plugin-sitemap sitemap
+https://www.gatsbyjs.org/packages/gatsby-plugin-advanced-sitemap
+
+幫網站加上 sitemap.xml
+
 ## gatsby-plugin-robots-txt
 https://www.gatsbyjs.org/packages/gatsby-plugin-robots-txt
 
@@ -85,10 +90,6 @@ https://www.gatsbyjs.org/packages/gatsby-transformer-sharp/?=
 https://www.gatsbyjs.org/packages/gatsby-awesome-pagination
 
 # 給 Google 用的
-
-## gatsby-plugin-sitemap sitemap
-https://www.gatsbyjs.org/packages/gatsby-plugin-sitemap
-https://www.gatsbyjs.org/packages/gatsby-plugin-advanced-sitemap
 
 ## gatsby-plugin-manifest PWA
 https://www.gatsbyjs.org/packages/gatsby-plugin-manifest
