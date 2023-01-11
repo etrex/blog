@@ -29,7 +29,7 @@
     "gatsby-remark-mermaid": "^2.0.0",
     "gatsby-source-filesystem": "^2.3.8",
     "gatsby-theme-tailwindcss": "^1.1.0",
-    "gatsby-transformer-remark": "^2.8.13",
+    "gatsby-transformer-remark": "^5.25.1",
     "katex": "^0.11.1",
     "puppeteer": "^4.0.1",
     "react": "^16.12.0",
